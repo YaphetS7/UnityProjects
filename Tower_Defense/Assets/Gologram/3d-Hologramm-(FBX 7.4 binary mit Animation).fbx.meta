@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: e4440d72f715dfb4dbfe968ff3be0624
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 3d-Hologramm
+    100002: //RootNode
+    100004: Cube
+    100006: Hemi
+    100008: Icosphere
+    100010: Point
+    100012: Point.001
+    100014: Sphere.001
+    100016: Spot
+    100018: Torus.000
+    100020: Torus.001
+    100022: Torus.002
+    100024: Torus.003
+    100026: Torus.004
+    100028: Torus.021
+    100030: Torus.022
+    400000: 3d-Hologramm
+    400002: //RootNode
+    400004: Cube
+    400006: Hemi
+    400008: Icosphere
+    400010: Point
+    400012: Point.001
+    400014: Sphere.001
+    400016: Spot
+    400018: Torus.000
+    400020: Torus.001
+    400022: Torus.002
+    400024: Torus.003
+    400026: Torus.004
+    400028: Torus.021
+    400030: Torus.022
+    2100000: Drohn_1
+    2100002: Material.006
+    2100004: Material.001
+    2100006: Material.002
+    2100008: Material.011
+    2100010: Material.014
+    2100012: Red
+    2300000: 3d-Hologramm
+    2300002: Cube
+    2300004: Icosphere
+    2300006: Sphere.001
+    2300008: Torus.000
+    2300010: Torus.001
+    2300012: Torus.002
+    2300014: Torus.003
+    2300016: Torus.004
+    2300018: Torus.021
+    2300020: Torus.022
+    3300000: 3d-Hologramm
+    3300002: Cube
+    3300004: Icosphere
+    3300006: Sphere.001
+    3300008: Torus.000
+    3300010: Torus.001
+    3300012: Torus.002
+    3300014: Torus.003
+    3300016: Torus.004
+    3300018: Torus.021
+    3300020: Torus.022
+    4300000: 3d-Hologramm
+    4300002: Icosphere
+    4300004: Cube
+    4300006: Sphere.001
+    4300008: Torus.004
+    4300010: Torus.000
+    4300012: Torus.001
+    4300014: Torus.002
+    4300016: Torus.003
+    4300018: Torus.021
+    4300020: Torus.022
+    7400000: Cube|CubeAction
+    7400002: Cube|Sphere.001Action
+    7400004: Cube|Torus.000Action.008
+    7400006: Sphere.001|CubeAction
+    7400008: Sphere.001|Sphere.001Action
+    7400010: Sphere.001|Torus.000Action.008
+    7400012: Torus.004|CubeAction
+    7400014: Torus.004|Sphere.001Action
+    7400016: Torus.004|Torus.000Action.008
+    7400018: Torus.000|CubeAction
+    7400020: Torus.000|Sphere.001Action
+    7400022: Torus.000|Torus.000Action.008
+    7400024: Torus.001|CubeAction
+    7400026: Torus.001|Sphere.001Action
+    7400028: Torus.001|Torus.000Action.008
+    7400030: Torus.002|CubeAction
+    7400032: Torus.002|Sphere.001Action
+    7400034: Torus.002|Torus.000Action.008
+    7400036: Torus.003|CubeAction
+    7400038: Torus.003|Sphere.001Action
+    7400040: Torus.003|Torus.000Action.008
+    7400042: Torus.021|CubeAction
+    7400044: Torus.021|Sphere.001Action
+    7400046: Torus.021|Torus.000Action.008
+    7400048: Torus.022|CubeAction
+    7400050: Torus.022|Sphere.001Action
+    7400052: Torus.022|Torus.000Action.008
+    9500000: //RootNode
+    10800000: Hemi
+    10800002: Point
+    10800004: Point.001
+    10800006: Spot
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
